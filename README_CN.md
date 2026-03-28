@@ -1,4 +1,4 @@
-# Sea Otter Subspecies Classification
+# Sea Otter Subspecies Classification :otter:
 
 基于真实海獭形态学数据的二分类项目，目标是区分两个海獭亚种：
 
