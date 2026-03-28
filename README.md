@@ -1,4 +1,4 @@
-:otter:# Sea Otter Subspecies Classification
+# Sea Otter Subspecies Classification :otter:
 
 A binary classification project based on real-world sea otter morphometric data, designed to distinguish between two subspecies:
 
